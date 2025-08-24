@@ -1,4 +1,4 @@
-## Hellow World, I'm Devin Niles
+## Hello World, I'm Devin Niles
 
 <!--
 **DevinNiles/DevinNiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
